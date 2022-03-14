@@ -1,0 +1,17 @@
+.login{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+input{
+    width: 10%;
+    margin: 1vmin;
+}
+#submit{
+    width: fit-content;
+}
